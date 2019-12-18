@@ -1,0 +1,42 @@
+{
+  "type": "panel",
+  "name": "image-source-render-panel",
+  "id": "mav-10-image-source-render-panel",
+  "info": {
+    "description": "Renders image from datsource query result",
+    "author": {
+      "name": "Vasin, Maxim",
+      "url": "https://github.com/mav10/"
+    },
+    "keywords": [
+      "image",
+      "panel",
+      "grafana",
+      "source",
+      "datasource",
+      "query",
+      "api"
+    ],
+    "logos": {
+      "small": "img/logo.png",
+      "large": "img/logo.png"
+    },
+    "links": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/mav10/image-source-render-panel"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/mav10/image-source-render-panel/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
