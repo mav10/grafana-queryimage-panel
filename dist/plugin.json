@@ -8,15 +8,7 @@
       "name": "Vasin, Maxim",
       "url": "https://github.com/mav10/"
     },
-    "keywords": [
-      "image",
-      "panel",
-      "grafana",
-      "source",
-      "datasource",
-      "query",
-      "api"
-    ],
+    "keywords": ["image", "panel", "grafana", "source", "datasource", "query", "api"],
     "logos": {
       "small": "img/logo.png",
       "large": "img/logo.png"
@@ -33,10 +25,10 @@
     ],
     "screenshots": [],
     "version": "1.0.0",
-    "updated": "2019-12-18"
+    "updated": "2020-08-18"
   },
   "dependencies": {
-    "grafanaVersion": "6.3.x",
+    "grafanaVersion": "6.5.0",
     "plugins": []
   }
 }
